@@ -12,5 +12,5 @@ For recommendation of movies, using different techniques and many kinds of recom
 
 # System 3
 * Uses SPARSE MARTRIX
-Memory Based Collabrative filtering using Matrix Factrization
+1) Memory Based Collabrative filtering using Matrix Factrization
 
