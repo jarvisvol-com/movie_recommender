@@ -1,8 +1,8 @@
 # Movie Recommender
 For recommendation of movies, using different techniques and many kinds of recommendation.
 
-# System 1 
-1) Calculate Movie Score and give weighted rating as per no of reviews.
+# System 1
+1) Calculate Movie Score and give Weighted rating as per no of reviews.
 2) Give Correlation of a selected movies with other movies.
 
 # System 2
